@@ -1,0 +1,30 @@
+h1
+{
+	color:red;
+	word-spacing:10px; 
+	text-transform:uppercase; 
+	text-decoration:overline;
+	text-align:center;
+	letter-spacing:5px;
+	font-style:italic;
+	font-size:50px;
+	font-family:Brush Script MT;
+	
+}
+
+body
+{
+	background-color:black;
+}
+p
+{
+	color:red;
+	font-family:Bahnschrift;
+	font-variant:small-caps;
+	
+}
+ul
+{
+	color:yellow;
+	font-family:Algerian;
+}
